@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 ## Estou aprend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
+![Snake animation](https://github.com/joaovmoraes1/joaovmoraes1/blob/output/github-contribution-grid-snake.svg)
+
           
 
