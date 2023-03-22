@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## Estou aprend
+## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
 
