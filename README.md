@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Engenharia de Software , atualmente no 5 semestre , na UEPA<br>🌱 Atualmente estou aprendendo  javascript , python<br>contato: joaovitorrodriguesmoraes207@gmail.com
+🔭 Estudante de Engenharia de Software , atualmente no 6 semestre , na UEPA<br>🌱 Atualmente estou aprendendo  javascript , python<br>contato: joaovitorrodriguesmoraes207@gmail.com
 
 
 ## 🌐 Socials:
