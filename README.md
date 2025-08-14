@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é João Moraes<br><br>🔭 Estudante de Engenharia de Software , atualmente no 7 semestre , na UEPA<br><br>🌱 Atualmente estou aprendendo  Go, Java , React<br><br>✉️ Contato: joaovitorrodriguesmoraes207@gmail.com</h2>
+<h2 align="left">Olá👋! Meu nome é João Moraes<br><br>🔭 Graduado em Engenharia de Software pela Universidade do Estado do Pará (UEPA)<br><br>✉️ Contato: joaovitorrodriguesmoraes207@gmail.com</h2>
 
 ###
 
